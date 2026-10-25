@@ -1,0 +1,97 @@
+
+body {
+    background-color: #101827;
+    color: #e2e8f0;
+    text-align: center;
+}
+
+header {
+    background-color: #17243a;
+    color: #75baff;
+    text-align: center;
+    border: 4px double #75baff;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+h1 {
+    color: #75baff;
+    text-align: center;
+}
+
+h2 {
+    color: #75baff;
+    text-align: center;
+    border-top: 2px solid #426b9b;
+    padding: 10px;
+}
+
+p {
+    color: #e2e8f0;
+    text-align: center;
+}
+
+.basta {
+    color: #8dc7ff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    border-left: 5px solid #75baff;
+    border-right: 5px solid #75baff;
+    border-radius: 8px;
+    padding: 12px;
+}
+
+.ending {
+    color: #75baff;
+    text-align: center;
+    border-top: 2px dashed #426b9b;
+    border-bottom: 2px dashed #426b9b;
+    padding: 12px;
+}
+
+a {
+    color: #75baff;
+    text-align: center;
+    border: 2px solid #75baff;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+ul {
+    color: #e2e8f0;
+    text-align: left;
+    border-left: 3px solid #426b9b;
+    padding: 15px;
+}
+
+ol {
+    color: #e2e8f0;
+    text-align: left;
+    border-left: 3px solid #426b9b;
+    padding: 15px;
+}
+
+li {
+    color: #e2e8f0;
+    padding: 5px;
+}
+
+img {
+    border: 4px double #75baff;
+    border-radius: 15px;
+    text-align: center;
+}
+
+header p {
+    color: #cbdcf1;
+}
+
+header h1 {
+    color: #75baff;
+}
+
+body > p:last-child {
+    color: #8dc7ff;
+    text-align: center;
+}
